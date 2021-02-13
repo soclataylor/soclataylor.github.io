@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Benvinguts a la meva plana web.
 
-You can use the [editor on GitHub](https://github.com/soclataylor/soclataylor.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Sóc la [Mariona Batalla Taylor](http://www.linkedin.com/marionabatallataylor), informàtica, dissenyadora gràfica i professora d'Informàtica i Sistemes i Aplicacions Informàtiques. Actualment estic a l'Institut Salvador Espriu, de Salt, fent docència al cicle formatiu de grau mitjà de Sistemes i Aplicacions Informàtiques.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
